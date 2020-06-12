@@ -1,17 +1,14 @@
 [
     {
         "appliesTo": {
-            "issues": true
+            "gitHubLabels": ["priority: P2", "bug"]
         },
         "complianceSettings": {
-            "responseTime": "4h",
-            "resolutionTime": 0,
-            "responders": {
-                "owners": ["##"]
-            }
+            "responseTime": 0
         }
     }
  ]
+ 
  
  
  
