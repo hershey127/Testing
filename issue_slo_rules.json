@@ -1,14 +1,12 @@
 [
     {
         "appliesTo": {
-            "priority": "P0",
-            "issueType": "bug"
+            "gitHubLabels": ["priority: P2", "bug"]
         },
         "complianceSettings": {
-            "responseTime": 0,
-            "resolutionTime": "12h",
-            "requiresAssignee": true
+            "responseTime": 0
         }
     }
  ]
+ 
  
