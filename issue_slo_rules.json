@@ -1,10 +1,16 @@
 [
-    {
+    {   
         "appliesTo": {
-            "gitHubLabels": ["priority: P2", "bug"]
+            "issues": true
         },
         "complianceSettings": {
-            "responseTime": 0
+            "responseTime": "4h",
+            "resolutionTime": 0,
+            "responders": {
+                "owners": ["./OWNERS"],
+                "contributors": "ADMIN",
+                "users": ["brennae", "sreeharshitha"]
+            }
         }
     }
  ]
