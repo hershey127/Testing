@@ -1,8 +1,5 @@
 [
     {
-        "appliesTo": {
-            "gitHubLabels": ["priority: P0", "bug"]
-        },
         "complianceSettings": {
             "responseTime": 0,
             "resolutionTime": 43200,
