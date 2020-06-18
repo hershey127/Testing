@@ -1,13 +1,16 @@
 [
     {
         "appliesTo": {
-            "gitHubLabels": ["priority: P2", "bug"]
+            "gitHubLabels": ["priority: P0", "bug"]
         },
         "complianceSettings": {
-            "responseTime": 0
+            "responseTime": 0,
+            "resolutionTime": 43200,
+            "requiresAssignee": true
         }
     }
  ]
+ 
  
  
  
