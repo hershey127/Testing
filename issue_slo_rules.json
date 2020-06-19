@@ -4,7 +4,7 @@
         "complianceSettings": {
             "responseTime": 0,
             "resolutionTime": 43200,
-            "requiresAssignee": true
+            "requiresAssignee": false
         }
     }
  ]
