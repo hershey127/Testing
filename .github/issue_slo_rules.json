@@ -2,7 +2,7 @@
     {
 	"appliesTo": {
 	    "gitHubLabels": ["bug", "help wanted"],
-	    "excludedGithHubLabels": "P2",
+	    "excludedGithHubLabels": "enhancement",
 	    "priority": "P0",
 	    "type": "bug"
 	},
