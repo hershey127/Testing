@@ -11,7 +11,8 @@
             "resolutionTime": 43200,
             "requiresAssignee": true,
 	    "responders" : {
-               "contributors": "WRITE"
+               "contributors": "ADMIN",
+	       "users": ["karanlakhani"]
             }
         }
     }
