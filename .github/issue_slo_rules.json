@@ -11,6 +11,7 @@
             "resolutionTime": 43200,
             "requiresAssignee": true,
 	    "responders" : {
+	       "owners": "./.github/CODEOWNERS",
                "contributors": "ADMIN",
 	       "users": ["karanlakhani"]
             }
