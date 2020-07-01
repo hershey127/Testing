@@ -9,7 +9,10 @@
         "complianceSettings": {
             "responseTime": 0,
             "resolutionTime": 43200,
-            "requiresAssignee": true
+            "requiresAssignee": true,
+	    "responders" : {
+               "contributors": "WRITE"
+            }
         }
     }
  ]
