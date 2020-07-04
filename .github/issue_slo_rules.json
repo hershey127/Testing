@@ -12,7 +12,7 @@
             "requiresAssignee": true,
 	    "responders" : {
                "contributors": "WRITE",
-	       "users": ["user1, user2"]
+	       "users": ["user1", "user2"]
             }
         }
     }
