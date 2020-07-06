@@ -7,8 +7,8 @@
 	    "type": "bug"
 	},
         "complianceSettings": {
-            "resolutionTime": 0,
-            "responseTime": "60h",
+            "resolutionTime": "100000000d",
+            "responseTime": "432000",
             "requiresAssignee": true,
 	    "responders" : {
                "contributors": "ADMIN",
