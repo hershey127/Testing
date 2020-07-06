@@ -8,11 +8,11 @@
 	},
         "complianceSettings": {
             "resolutionTime": 0,
-            "responseTime": "300m",
-            "requiresAssignee": false,
+            "responseTime": "4200s",
+            "requiresAssignee": true,
 	    "responders" : {
-               "contributors": "OWNER",
-	       "users": ["user1", "user2"]
+	       "owners": "/.github/CODEOWNERS",
+               "contributors": "OWNER"
             }
         }
     }
