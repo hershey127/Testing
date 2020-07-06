@@ -7,11 +7,11 @@
 	    "type": "bug"
 	},
         "complianceSettings": {
-            "responseTime": "5d",
-            "resolutionTime": 43200,
+            "responseTime": 0,
+            "resolutionTime": "60h",
             "requiresAssignee": true,
 	    "responders" : {
-               "contributors": "WRITE",
+               "contributors": "ADMIN",
 	       "users": ["user1", "user2"]
             }
         }
