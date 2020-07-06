@@ -11,7 +11,7 @@
             "responseTime": "432000",
             "requiresAssignee": true,
 	    "responders" : {
-               "contributors": "ADMIN",
+               "contributors": "WRITE",
 	       "users": ["user1", "user2"]
             }
         }
