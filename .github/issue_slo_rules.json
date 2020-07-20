@@ -8,6 +8,7 @@
         },
         "complianceSettings": {
             "resolutionTime": 0,
+
             "responseTime": 0,
             "requiresAssignee": true
         }
