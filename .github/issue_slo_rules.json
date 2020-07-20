@@ -1,11 +1,23 @@
 [
     {
-	"appliesTo": {
-	    "gitHubLabels": ["bug", "help wanted"],
-	    "excludedGithHubLabels": "enhancement",
-	    "priority": "P0",
-	    "type": "bug"
-	},
+        "appliesTo": {
+            "gitHubLabels": ["bug", "help wanted"],
+            "excludedGithHubLabels": "enhancement",
+            "priority": "P0",
+            "type": "bug"
+        },
+        "complianceSettings": {
+            "resolutionTime": 0,
+            "responseTime": 0,
+            "requiresAssignee": true
+        }
+    },
+    {
+        "appliesTo": {
+            "excludedGithHubLabels": "enhancement",
+            "priority": "P0",
+            "prs": true
+        },
         "complianceSettings": {
             "resolutionTime": 0,
             "responseTime": 0,
