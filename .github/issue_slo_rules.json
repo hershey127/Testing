@@ -36,7 +36,7 @@
             "prs": true,
             "issues": false
         },
-        "complianceSettingss": {
+        "complianceSettings": {
             "resolutionTime": 0,
             "responseTime": 0,
             "requiresAssignee": true
