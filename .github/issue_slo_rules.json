@@ -8,7 +8,6 @@
         },
         "complianceSettings": {
             "resolutionTime": 0,
-            "responseTime": 0,
             "requiresAssignee": true,
             "responders": {
                 "owners": ".github/CODEOWNERS",
@@ -18,11 +17,10 @@
     },
     {
         "appliesTo": {
-            "excludedGithHubLabels": "enhancement",
             "priority": "P0",
             "prs": true
         },
-        "complianceSettings": {
+        "complianceSettingss": {
             "resolutionTime": 0,
             "responseTime": 0,
             "requiresAssignee": true
