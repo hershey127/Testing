@@ -7,7 +7,7 @@
             "type": "bug"
         },
         "complianceSettings": {
-            "reslutionTime": 0,
+            "resolutionTime": 0,
             "responseTime": 0,
             "requiresAssignee": true,
             "responders": {
