@@ -8,9 +8,12 @@
         },
         "complianceSettings": {
             "reslutionTime": 0,
-
             "responseTime": 0,
-            "requiresAssignee": true
+            "requiresAssignee": true,
+            "responders": {
+                "owners": ".github/CODEOWNERS",
+                "contributers": "WRITE"
+            }
         }
     },
     {
