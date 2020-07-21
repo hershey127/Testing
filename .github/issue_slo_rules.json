@@ -8,16 +8,33 @@
         },
         "complianceSettings": {
             "resolutionTime": 0,
-
-            "responseTime": 0,
-            "requiresAssignee": true
+            "responseTime": "24h",
+            "responders": {
+                "owners": ".github/CODEOWNERS",
+                "contributers": "WRITE"
+            }
         }
     },
     {
         "appliesTo": {
-            "excludedGithHubLabels": "enhancement",
+            "gitHubLabels": "question",
+            "excludedGithHubLabels": "bug",
+            "issues": true
+        },
+        "complianceSettings": {
+            "resolutionTime": 0,
+            "responseTime": "24h",
+            "responders": {
+                "contributers": "OWNER",
+                "users": ["htadinada3"]
+            }
+        }
+    },
+    {
+        "appliesTo": {
             "priority": "P0",
-            "prs": true
+            "prs": true,
+            "issues": false
         },
         "complianceSettings": {
             "resolutionTime": 0,
