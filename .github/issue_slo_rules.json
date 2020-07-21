@@ -8,7 +8,7 @@
         },
         "complianceSettings": {
             "resolutionTime": 0,
-            "responseTime": "24h",
+            "responseTime": 0,
             "responders": {
                 "owners": ".github/CODEOWNERS",
                 "contributers": "WRITE"
@@ -33,8 +33,8 @@
     {
         "appliesTo": {
             "priority": "P0",
-            "prs": true,
-            "issues": false
+            "issues": false,
+            "prs": true
         },
         "complianceSettings": {
             "resolutionTime": 0,
