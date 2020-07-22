@@ -27,7 +27,7 @@
         }
     },
     {
-        "appliesT": {
+        "applie": {
             "priority": "P1",
             "issues": false,
             "prs": true
