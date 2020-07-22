@@ -28,12 +28,12 @@
     },
     {
         "appliesTo": {
-            "priority": "P0",
+            "priority": "P1",
             "issues": false,
             "prs": true
         },
         "complianceSettings": {
-            "resolutionTime": 0,
+            "resolution": 0,
             "responseTime": 0,
             "requiresAssignee": true
         }
