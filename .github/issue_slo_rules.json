@@ -8,7 +8,7 @@
         },
         "complianceSettings": {
             "resolutionTime": 0,
-            "responseTime": 0,
+            "responseTime": "2h",
             "responders": {
                 "owners": ".github/CODEOWNERS",
                 "contributers": "WRITE"
@@ -22,12 +22,8 @@
             "issues": true
         },
         "complianceSettings": {
-            "resolutionTime": 0,
-            "responseTime": "24h",
-            "responders": {
-                "contributers": "OWNER",
-                "users": ["htadinada3"]
-            }
+            "resolutionTime": "24h",
+            "responseTime": 0
         }
     },
     {
