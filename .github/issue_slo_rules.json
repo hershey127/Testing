@@ -33,7 +33,7 @@
             "prs": true
         },
         "complianceSettings": {
-            "resolution": 0,
+            "resolutionTime": 0,
             "responseTime": 0,
             "requiresAssignee": true
         }
