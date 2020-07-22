@@ -8,9 +8,8 @@ This bot uses nock for mocking requests to GitHub, and snap-shot-it for capturin
 
 ## Usage:
 Create Out of SLO label in the repo. Update `label_name.yml` with the name of OOSLO label. 
+Example:
+
+  `name: ooslo`
 
 Create `issue_slo_rules.json` file inside of org level or repo level .github directory. This file should consist of a list of slo rules that either applies to all of the repos under the same organization or applies to a specific repository.
-
- Example:
- 
-  -`name: ooslo`
