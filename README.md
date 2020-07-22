@@ -8,6 +8,7 @@ This bot uses nock for mocking requests to GitHub, and snap-shot-it for capturin
 
 ## Usage:
 Create Out of SLO label in the repo. Update `label_name.yml` with the name of OOSLO label. 
+
 Example:
 
   `name: ooslo`
