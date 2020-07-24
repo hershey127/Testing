@@ -14,7 +14,7 @@
         }
     },
     {
-        "applies": {
+        "appliesTo": {
             "gitHubLabels": "question",
             "excludedGithHubLabels": "bug",
             "issues": true
