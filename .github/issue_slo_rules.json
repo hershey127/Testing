@@ -5,7 +5,7 @@
             "excludedGithHubLabels": "enhancement"
         },
         "complianceSettings": {
-            "resolution": 0,
+            "resolutionTime": 0,
             "responseTime": "1m",
             "responders": {
 		"owners": ".github/CODEOWNERS",
