@@ -6,7 +6,7 @@
         },
         "complianceSettings": {
             "resolutionTime": 0,
-            "responseTime": "2h",
+            "responseTime": "2h 1m",
             "responders": {
 		"owners": ".github/CODEOWNERS",
                 "contributers": "WRITE"
