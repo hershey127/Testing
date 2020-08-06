@@ -6,7 +6,7 @@
         },
         "complianceSettings": {
             "resolutionTime": 0,
-            "responseTime": "1m 1s",
+            "responseTime": "61s",
 	    "requiresAssignee": true,
             "responders": {
 		"owners": ".github/CODEOWNERS",
