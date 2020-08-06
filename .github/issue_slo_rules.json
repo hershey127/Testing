@@ -1,7 +1,7 @@
 [
     {
         "appliesTo": {
-            "gitHubLabels": ["bug", "help wanted", "P0", "bug"],
+            "gitHubLabels": ["bug", "help wanted", "P0"],
             "excludedGithHubLabels": "enhancement"
         },
         "complianceSettings": {
