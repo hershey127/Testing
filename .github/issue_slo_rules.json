@@ -7,21 +7,11 @@
         "complianceSettings": {
             "resolutionTime": 0,
             "responseTime": "1m",
+	    "requiresAssignee": true,
             "responders": {
 		"owners": ".github/CODEOWNERS",
                 "contributers": "WRITE"
             }
-        }
-    },
-    {
-        "appliesTo": {
-            "gitHubLabels": "question",
-            "excludedGithHubLabels": "bug",
-            "issues": true
-        },
-        "complianceSettings": {
-            "resolutionTime": "24h",
-            "responseTime": 0
         }
     },
     {
