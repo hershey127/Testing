@@ -20,7 +20,7 @@
             "excludedGithHubLabels": "bug"
         },
         "complianceSettings": {
-            "resolutionTime": "1h 1s",
+            "resolutionTime": "1h",
             "responseTime": "61s",
             "responders": {
 		"owners": ".github/CODEOWNERS"
