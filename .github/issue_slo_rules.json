@@ -16,6 +16,19 @@
     },
     {
         "appliesTo": {
+            "gitHubLabels": ["question", "enhancement"],
+            "excludedGithHubLabels": "bug"
+        },
+        "complianceSettings": {
+            "resolutionTime": "1h",
+            "responseTime": "61s",
+            "responders": {
+		"owners": ".github/CODEOWNERS"
+            }
+        }
+    },
+    {
+        "appliesTo": {
             "gitHubLabels": "P1",
             "issues": false,
             "prs": true
