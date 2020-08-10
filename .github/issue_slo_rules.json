@@ -13,7 +13,7 @@
                 "contributers": "WRITE"
             }
         }
-    },
+    }, 
     {
         "appliesTo": {
             "gitHubLabels": ["question", "enhancement"],
@@ -21,7 +21,7 @@
         },
         "complianceSettings": {
             "resolutionTime": "1h",
-            "responseTime": "0",
+            "responseTime": 0,
 	    "requiresAssignee": true,
             "responders": {
 		"owners": ".github/CODEOWNERS"
