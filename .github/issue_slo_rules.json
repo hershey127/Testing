@@ -9,7 +9,6 @@
             "responseTime": "61s",
 	    "requiresAssignee": true,
             "responders": {
-		"owners": ".github/CODEOWNERS",
                 "contributers": "OWNER"
             }
         }
