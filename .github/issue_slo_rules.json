@@ -13,7 +13,7 @@
                 "contributers": "WRITE"
             }
         }
-    },
+    }, 
     {
         "appliesTo": {
             "gitHubLabels": ["question", "enhancement"],
