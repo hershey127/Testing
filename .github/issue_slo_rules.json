@@ -10,7 +10,7 @@
 	    "requiresAssignee": true,
             "responders": {
 		"owners": ".github/CODEOWNERS",
-                "contributers": "WRITE"
+                "contributers": "OWNER"
             }
         }
     }, 
