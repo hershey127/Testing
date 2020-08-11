@@ -2,7 +2,8 @@
     {
         "appliesTo": {
             "gitHubLabels": ["bug", "help wanted", "P0"],
-            "excludedGitHubLabels": "enhancement"
+            "excludedGitHubLabels": "enhancement",
+	    "prs": true
         },
         "complianceSettings": {
             "resolutionTime": 0,
