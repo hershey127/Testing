@@ -21,7 +21,6 @@
         "complianceSettings": {
             "resolutionTime": "1h",
             "responseTime": "60s",
-	    "requiresAssignee": true,
             "responders": {
 		"owners": ".github/CODEOWNERS"
             }
