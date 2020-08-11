@@ -17,7 +17,7 @@
     {
         "appliesTo": {
             "gitHubLabels": ["question", "enhancement"],
-            "excludedGithHubLabels": "bug"
+            "excludedGitHubLabels": "bug"
         },
         "complianceSettings": {
             "resolutionTime": "1h",
