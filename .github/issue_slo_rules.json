@@ -10,7 +10,7 @@
             "responseTime": "61s",
 	    "requiresAssignee": true,
             "responders": {
-                "users": ["karanlakhani"]
+                "users": "karanlakhani"
             }
         }
     }, 
