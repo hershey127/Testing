@@ -1,6 +1,6 @@
 [
     {
-        "appliesT": {
+        "appliesTo": {
             "gitHubLabels": ["bug", "help wanted", "P0", "enhancement"],
             "excludedGitHubLabels": "enhancement",
 	    "prs": true
